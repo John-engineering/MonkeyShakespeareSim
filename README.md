@@ -15,4 +15,4 @@ Step 3: For Mac: "python3 monkey_shakespeare.py" For Windows: "python monkey_sha
 
 To Stop The Process Press Ctrl C
 
-If you would like to share your results to help my research efforts please run monkey_shakespeare_DB.py instead:)
+If you would like to share your results to help my research efforts please run monkey_shakespeare_DB.py instead :)
