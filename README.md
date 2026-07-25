@@ -3,7 +3,6 @@ OVERALL PROJECT SUMMARY:
 Python script using NumPy that generates millions of letters per second and compares them against a copy of 
 the complete works of shakespeare and reports back findings including how many characters were processed.
 
-IF YOU WISH TO SHARE YOUR RESULTS, RUN MONKEY_SHAKESPEARE_DB.PY, AS THSI VERSION SENDS RESULTS TO A DATABASE FOR RESEARCH
 
 INSTALLATION GUIDE:
 
@@ -15,3 +14,5 @@ Step 3: For Mac: "python3 monkey_shakespeare.py" For Windows: "python monkey_sha
 
 
 To Stop The Process Press Ctrl C
+
+If you would like to share your results to help my research efforts please run monkey_shakespeare_DB.py instead:)
